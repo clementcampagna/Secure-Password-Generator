@@ -1,6 +1,10 @@
 # Secure Password Generator
 
-This password generator uses MS Windows rand_s function to generate secure seeds before providing new passwords to the user. It is a lightweight console based application which works on Windows XP and later. Users can choose to run this program by simply double-clicking its executable or to call it using a list of predefined parameters shown below.
+This password generator uses MS Windows rand_s function to generate secure seeds before providing new passwords to the user.\
+\
+It is a lightweight console based application which works on Windows XP and later.\
+\
+Users can choose to run this program by simply double-clicking its executable or to call it using a list of predefined parameters as shown below.
 
 ### Usage:
 
@@ -55,9 +59,11 @@ PasswordGen.exe -pl 10 -en -es
 
 ### Development:
 
-Want to contribute? Great!
+Want to contribute? Great, Secure Password Generator is open-source!\
+\
 Please feel free to clone this repository, fork it, make changes to the code, submit pull requests, raise issues, and/or email me using the address below for any suggestions, questions or remarks you may have.
 
 ### Contact Information:
 
-Email adress: clementcampagna+github@gmail.com
+Author's email address: clementcampagna+github@gmail.com\
+Author's website: https://clementcampagna.com
